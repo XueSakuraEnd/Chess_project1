@@ -1,2 +1,2 @@
-# Chess_project1
-1
+记录2022.5.31
+采用alpha-beta以及最简单的估值函数
